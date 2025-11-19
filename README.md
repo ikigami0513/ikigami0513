@@ -6,12 +6,6 @@
 🎮 Building small engines to understand low-level rendering.  
 🧩 Passionate about clean architectures and experimentation.
 
-- 🔭 I’m currently working on [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)<br/>
-<sub>A game engine written in Rust with [Macroquad](https://github.com/not-fl3/macroquad), focused on modularity and fast iteration.</sub>
-
-- 🔭 I’m currently working on [Genealog](https://github.com/ikigami0513/Genealog)<br/>
-<sub>A clean and modern genealogy visualizer built to explore family trees intuitively.</sub>
-
 - 🌱 I’m currently learning **Macroquad, Hecs and Rust**
 
 - 👨‍💻 All of my projects are available at [https://ethan-rucar.com/](https://ethan-rucar.com/)
@@ -25,6 +19,21 @@
 - Learn ECS deeper (Hecs)  
 - Release a stable version of Fantasy Craft  
 
+---
+
+## 🌟 Featured Projects
+
+### ⚔️ [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)
+> A game engine written in Rust with [Macroquad](https://github.com/not-fl3/macroquad), focused on modularity, ECS architecture, and fast iteration.
+
+**Tech Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) `Macroquad` `Hecs`
+
+### 🌳 [Genealog](https://github.com/ikigami0513/Genealog)
+> A clean and modern genealogy visualizer built to explore family trees intuitively and efficiently.
+
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ---
 
 ## 🚀 Tech Stack Overview

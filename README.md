@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan Rucar</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate software developer from France</h3>
 
 - 🔭 I’m currently working on [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)
 
-- 🌱 I’m currently learning **Macroquad, Winit and Wgpu**
-
 - 🔭 I’m currently working on [Genealog](https://github.com/ikigami0513/Genealog)
+
+- 🌱 I’m currently learning **Macroquad, Hecs and Rust**
 
 - 👨‍💻 All of my projects are available at [https://ethan-rucar.com/](https://ethan-rucar.com/)
 

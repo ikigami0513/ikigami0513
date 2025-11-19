@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from France</h3>
 
 - 🔭 I’m currently working on [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)<br/>
-<sub>A small 2D RPG engine written in Rust, focused on modularity and fast iteration.</sub>
+<sub>A game engine written in Rust with [Macroquad](https://github.com/not-fl3/macroquad), focused on modularity and fast iteration.</sub>
 
 - 🔭 I’m currently working on [Genealog](https://github.com/ikigami0513/Genealog)<br/>
 <sub>A clean and modern genealogy visualizer built to explore family trees intuitively.</sub>

@@ -9,6 +9,7 @@
 
 ### Featured Projects
 
+[![Fantasy Craft](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=fantasy_craft)](https://github.com/ikigami0513/fantasy_craft)
 [![Genealog](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=Genealog)](https://github.com/ikigami0513/Genealog)
 
 - 🌱 I’m currently learning **Macroquad, Hecs and Rust**

@@ -27,7 +27,7 @@
 
 ### Tech Stack Overview
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?logo=c++&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-3776AB?logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)<br/>
 

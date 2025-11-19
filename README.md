@@ -69,6 +69,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikigami0513&show_icons=true&theme=radical" alt="ikigami0513's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikigami0513&theme=radical" alt="ikigami0513's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikigami0513&show_icons=true&locale=en&layout=compact&theme=radical" alt="ikigami0513's Top Languages" />
+</p>
+
+---
+
 ### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ethan rucar" target="blank">
@@ -77,5 +90,3 @@
 </p>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikigami0513&show_icons=true&locale=en&layout=compact" alt="ikigami0513" /></p>

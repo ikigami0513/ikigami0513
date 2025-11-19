@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ethan Rucar</h1>
 <h3 align="center">A passionate software developer from France</h3>
 
+### About Me
+⭐ Software developer focused on Rust, game engines, and performant tooling.  
+🎮 Building small engines to understand low-level rendering.  
+🧩 Passionate about clean architectures and experimentation.
+
 - 🔭 I’m currently working on [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)<br/>
 <sub>A game engine written in Rust with [Macroquad](https://github.com/not-fl3/macroquad), focused on modularity and fast iteration.</sub>
 

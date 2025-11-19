@@ -7,6 +7,11 @@
 - 🔭 I’m currently working on [Genealog](https://github.com/ikigami0513/Genealog)<br/>
 <sub>A clean and modern genealogy visualizer built to explore family trees intuitively.</sub>
 
+### Featured Projects
+
+[![Fantasy Craft](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=fantasy_craft)](https://github.com/ikigami0513/fantasy_craft)
+[![Genealog](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=Genealog)](https://github.com/ikigami0513/Genealog)
+
 - 🌱 I’m currently learning **Macroquad, Hecs and Rust**
 
 - 👨‍💻 All of my projects are available at [https://ethan-rucar.com/](https://ethan-rucar.com/)

@@ -73,7 +73,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikigami0513&show_icons=true&theme=radical" alt="ikigami0513's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikigami0513&theme=radical" alt="ikigami0513's Streak" />
 </p>
 
 <p align="center">

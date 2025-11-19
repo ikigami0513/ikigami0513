@@ -26,7 +26,7 @@
 ### ⚔️ [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)
 > A game engine written in Rust with [Macroquad](https://github.com/not-fl3/macroquad), focused on modularity, ECS architecture, and fast iteration.
 
-**Tech Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) `Macroquad` `Hecs`
+**Tech Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 ### 🌳 [Genealog](https://github.com/ikigami0513/Genealog)
 > A clean and modern genealogy visualizer built to explore family trees intuitively and efficiently.

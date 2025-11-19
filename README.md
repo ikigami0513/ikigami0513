@@ -7,11 +7,6 @@
 - 🔭 I’m currently working on [Genealog](https://github.com/ikigami0513/Genealog)<br/>
 <sub>A clean and modern genealogy visualizer built to explore family trees intuitively.</sub>
 
-### Featured Projects
-
-[![Fantasy Craft](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=fantasy_craft)](https://github.com/ikigami0513/fantasy_craft)
-[![Genealog](https://github-readme-stats.vercel.app/api/pin/?username=ikigami0513&repo=Genealog)](https://github.com/ikigami0513/Genealog)
-
 - 🌱 I’m currently learning **Macroquad, Hecs and Rust**
 
 - 👨‍💻 All of my projects are available at [https://ethan-rucar.com/](https://ethan-rucar.com/)
@@ -19,6 +14,17 @@
 - 💬 Ask me about **Rust and Python**
 
 - 📫 How to reach me **ethan.rucar@gmail.com**
+
+### Current Goals
+- Improve my Rust game engine architecture
+- Learn ECS deeper (Hecs)
+- Release a stable version of Fantasy Craft
+
+### Tech Stack Overview
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

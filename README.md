@@ -25,6 +25,13 @@
 
 **Tech Stack:** ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
+### 🌐 [Foxvoid](https://github.com/ikigami0513/foxvoid)
+> The official ecosystem platform for the Fantasy Craft engine. A robust backend built with Django featuring a modern admin UI (Unfold), full internationalization, and cloud services for distributing WASM games.
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 ### 🌳 [Genealog](https://github.com/ikigami0513/Genealog)
 > A clean and modern genealogy visualizer built to explore family trees intuitively and efficiently.
 

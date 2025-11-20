@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan Rucar</h1>
 <h3 align="center">A passionate software developer from France</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    ![trophy](https://github-profile-trophy.vercel.app/?username=ikigami0513)](https://github.com/ryo-ma/github-profile-trophy)
-  </a>
-</p>
-
 ### About Me
 ⭐ Software developer focused on Rust, game engines, and performant tooling.  
 🎮 Building small engines to understand low-level rendering.  

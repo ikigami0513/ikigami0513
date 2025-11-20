@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ikigami0513&theme=radical&no-frame=true&column=7&margin-w=15" alt="ikigami0513 trophies" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ikigami0513)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 

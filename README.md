@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=ikigami0513)](https://github.com/ryo-ma/github-profile-trophy)
+    ![trophy](https://github-profile-trophy.vercel.app/?username=ikigami0513)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 

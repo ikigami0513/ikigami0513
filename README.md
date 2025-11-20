@@ -14,7 +14,7 @@
 ### Current Goals
 - Improve my Rust game engine architecture  
 - Learn ECS deeper (Hecs)  
-- Release a stable version of [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft)
+- Release a stable version of [Fantasy Craft](https://github.com/ikigami0513/fantasy_craft) and [Foxvoid](https://github.com/ikigami0513/foxvoid)
 
 ---
 

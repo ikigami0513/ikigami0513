@@ -53,7 +53,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikigami0513&show_icons=true&theme=radical" height="165" alt="ikigami0513's Github Stats" />
-  <img src="https://streak-stats.demolab.com?user=ikigami0513&theme=radical" height="165" alt="ikigami0513's Streak" />
 </div>
 
 <p align="center">
